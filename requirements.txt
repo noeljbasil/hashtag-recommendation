@@ -1,0 +1,12 @@
+pandas
+googledrivedownloader
+pygsheets
+regex
+requests
+spacy
+contractions
+scikit-learn
+python-math
+numpy
+gradio
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.4.0/en_core_web_md-3.4.0-py3-none-any.whl
